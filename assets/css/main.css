@@ -741,11 +741,11 @@ input, select, textarea {
 		}
 
 		.row > .col-3 {
-			width: 25%;
+			width: 20%;
 		}
 
 		.row > .off-3 {
-			margin-left: 25%;
+			margin-left: 20%;
 		}
 
 		.row > .col-4 {
@@ -2470,7 +2470,7 @@ input, select, textarea {
 			}
 
 		.icon.major {
-			background: #272833;
+			background: lightsteelblue;
 			border-radius: 100%;
 			cursor: default;
 			display: inline-block;
